@@ -1,0 +1,5 @@
+URL Dataset : https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis/data
+
+URL Model   : https://drive.google.com/drive/folders/1PtLqAqKJEDHSGjdvudcwPJD3tdZ4wc0q?usp=drive_link 
+
+URL Deployment  : https://huggingface.co/spaces/irel/GC7 
